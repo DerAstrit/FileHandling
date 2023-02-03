@@ -4,5 +4,5 @@ using FileHandling;
 
 Console.WriteLine("Hello, World!");
 
-CreateFileWithArray createFileWithArray = new CreateFileWithArray();
-createFileWithArray.Create();
+CreateFileWithAppendedText createFileWithAppendedText = new CreateFileWithAppendedText();
+createFileWithAppendedText.Create();
